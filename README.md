@@ -1,2 +1,2 @@
-# webpage_Sfaturi_pentru_drumetie.html
-#Webpage in HTML, CSS and JAVASCRIPT
+Title: Travel advices webpage using HTML, CSS and JAVASCRIPT
+
