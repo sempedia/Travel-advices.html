@@ -1,2 +1,2 @@
-Title: Travel advices webpage using HTML, CSS and JAVASCRIPT
+Travel advices webpage using HTML, CSS and JAVASCRIPT
 
